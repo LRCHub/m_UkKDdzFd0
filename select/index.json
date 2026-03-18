@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bitter Sweet",
+  "base_artist": "坂本真綾",
+  "createdAt": "2026-03-18T15:26:30.199968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (James Lavelle Remix)",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/01_Bitter_Sweet_Symphony_(James_Lavelle_Remix)_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (James Lavelle Remix)",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/02_Bitter_Sweet_Symphony_(James_Lavelle_Remix)_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony - Extended Version",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/03_Bitter_Sweet_Symphony_-_Extended_Version_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Extended Version]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/04_Bitter_Sweet_Symphony_[Extended_Version]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/05_Bitter_Sweet_Symphony_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Original]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/06_Bitter_Sweet_Symphony_[Original]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony - Radio Edit",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/07_Bitter_Sweet_Symphony_-_Radio_Edit_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony [Radio Edit]",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/08_Bitter_Sweet_Symphony_[Radio_Edit]_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bitter Sweet",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/09_Bitter_Sweet_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bitter Sweet",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/10_Bitter_Sweet_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bitter Sweet",
+      "artist": "Marc Almond",
+      "has_synced": true,
+      "path": "select/11_Bitter_Sweet_Marc_Almond.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (Live At Maida Vale Studios, London / 2017)",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/12_Bitter_Sweet_Symphony_(Live_At_Maida_Vale_Studios,_London___2017)_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bitter Sweet Symphony (Live At Maida Vale Studios, London \u0000 2017)",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/13_Bitter_Sweet_Symphony_(Live_At_Maida_Vale_Studios,_London_\u0000_2017)_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bitter Sweet",
+      "artist": "JD",
+      "has_synced": false,
+      "path": "select/14_Bitter_Sweet_JD.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Bitter Sweet",
+      "artist": "The Duke Spirit",
+      "has_synced": true,
+      "path": "select/15_Sweet_Bitter_Sweet_The_Duke_Spirit.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bitter Sweet Euphoria",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/16_Bitter_Sweet_Euphoria_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bitter-Sweet",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/17_Bitter-Sweet_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bitter‐Sweet",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/18_Bitter‐Sweet_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Duel (Bitter Sweet)",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/19_Duel_(Bitter_Sweet)_Propaganda.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bitter Sweet",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_Bitter_Sweet_坂本_真綾.txt"
+    }
+  ]
+}
